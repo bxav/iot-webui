@@ -1,6 +1,6 @@
 {
   "short_name": "Remote Monitoring",
-  "name": "Azure Remote Monitoring",
+  "name": "IoT Remote Monitoring",
   "icons": [
     {
       "src": "favicon.ico",

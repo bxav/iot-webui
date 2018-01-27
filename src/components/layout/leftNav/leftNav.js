@@ -43,7 +43,6 @@ class LeftNav extends Component {
 
         <div className="leftnav-item-container">
           <div className="leftnav-item-icon">
-            <img src={ContosoIcon} className="page-title-icon" alt="ContosoIcon" />
           </div>
           <div className="leftnav-item-text">{lang.CONTOSO}</div>
         </div>
