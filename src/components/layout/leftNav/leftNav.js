@@ -9,7 +9,7 @@ import DashboardIcon from '../../../assets/icons/Dashboard.svg';
 import MaintenanceIcon from '../../../assets/icons/Maintenance.svg';
 import DevicesIcon from '../../../assets/icons/Devices.svg';
 import RulesActionsIcon from '../../../assets/icons/RulesActionsIcon.svg';
-import ContosoIcon from '../../../assets/icons/Contoso.svg';
+//import ContosoIcon from '../../../assets/icons/Contoso.svg';
 
 import './leftNav.css';
 
